@@ -1,20 +1,44 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:2563eb&height=180&section=header&text=Felipe%20Lopes&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18&animation=fadeIn"/>
+# Felipe Lopes
 
-<br>
+### Full Stack Developer
 
-<a href="https://github.com/Felipelopest">
-  <img src="https://komarev.com/ghpvc/?username=Felipelopest&label=Profile%20Views&color=2563eb&style=flat-square" />
-</a>
+<p>
+  Building complete digital experiences — from database architecture to modern interfaces.
+</p>
 
-<a href="https://github.com/Felipelopest?tab=followers">
-  <img src="https://img.shields.io/github/followers/Felipelopest?label=Followers&style=flat-square&color=312e81" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React;Node.js+%7C+Python+%7C+Django;Building+ideas+into+real+systems." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Felipelopest&label=PROFILE+VIEWS&color=58A6FF&style=flat-square" />
+<img src="https://img.shields.io/github/followers/Felipelopest?label=FOLLOWERS&style=flat-square&color=58A6FF&labelColor=161B22" />
 
 </div>
 
+<br>
+
 ---
+
+## `$ whoami`
+
+```javascript
+const felipe = {
+    role: "Full Stack Developer",
+    education: "Systems Development @ ETEC",
+    experience: "3+ years programming",
+    
+    focus: [
+        "Web Development",
+        "REST APIs",
+        "Backend Architecture",
+        "Business Rules",
+        "Database Modeling"
+    ],
+
+    currentProject: "FinanceHub"
+};
 
 ## 👨‍💻 Sobre mim
 
